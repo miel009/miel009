@@ -13,9 +13,9 @@
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
 	</a>
 
-## <picture><img src = "https://giphy.com/embed/ixYItT9PXRl9f2RqjJ" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<iframe src="https://giphy.com/embed/ixYItT9PXRl9f2RqjJ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-ixYItT9PXRl9f2RqjJ">via GIPHY</a></p>
+
 <br><br>
 
 - :school: I am a`Junior`student at [Analista de sistemas] at [Da Vinci](https://davinci.edu.ar/?gad_source=1&gclid=Cj0KCQjwzva1BhD3ARIsADQuPnVJEJmofDWL1-WR1sTjO3A7wSeDD-vWl_y7G-zIfXQhLd23uoInGGYaApQ_EALw_wcB).
