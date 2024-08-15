@@ -27,8 +27,7 @@
 <br>
 -->
 
-<br>
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+<br> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -40,7 +39,7 @@
   </a> 
   &emsp;
   <a href="https://angular.dev/"_blank">
-    <img alt="angular" src="https://www.roadtodigital.net/wp-content/uploads/2024/06/angular-icon-seeklogo.webp">
+    <img alt="angular" src="https://img.shields.io/badge/Angular_18-violet">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
