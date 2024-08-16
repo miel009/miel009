@@ -18,7 +18,7 @@
 
 <br><br>
 
-- :school: I am a student at `Analista de sistemas` at [Da Vinci](https://davinci.edu.ar/?gad_source=1&gclid=Cj0KCQjwzva1BhD3ARIsADQuPnVJEJmofDWL1-WR1sTjO3A7wSeDD-vWl_y7G-zIfXQhLd23uoInGGYaApQ_EALw_wcB).
+- :school: I am a `Systems Analyst` student at [Da Vinci](https://davinci.edu.ar/?gad_source=1&gclid=Cj0KCQjwzva1BhD3ARIsADQuPnVJEJmofDWL1-WR1sTjO3A7wSeDD-vWl_y7G-zIfXQhLd23uoInGGYaApQ_EALw_wcB).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student:I am currently learning `Angular` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
