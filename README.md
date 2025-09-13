@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Melany Ascencio</h1>
 <p align="center">
-Desarrolladora Backend & Analista Funcional en formación, apasionada por construir sistemas sólidos y bien diseñados.
+Desarrolladora Backend & Analista Funcional en formación.
 </p>
 
 ---
