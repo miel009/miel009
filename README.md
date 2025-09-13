@@ -6,7 +6,9 @@ Desarrolladora Backend & Analista Funcional en formación.
 ---
 
 ## 💡 Sobre mí  
-- 🎓 Estudiante de **Análisis de Sistemas** en [Da Vinci](https://davinci.edu.ar/).  
+- 🎓 Estudiante de **Análisis de Sistemas** en [Da Vinci](https://davinci.edu.ar/). 
+- 🎓 Estudiante en **AWS Academy**.
+- 🎓 Estudiante en **Alura Latam - Programa ONE con Oracle** [Alura Latam](https://www.aluracursos.com/).  
 - ⚙️ Enfocada en el **desarrollo backend** con Java, Spring Boot, PHP (Laravel), Node.js/Express y Python.  
 - 📊 Experiencia como **Analista Funcional**:  
   - Modelado de sistemas con **UML** (diagramas de clases, casos de uso, secuencia, etc.).  
@@ -47,14 +49,17 @@ Desarrolladora Backend & Analista Funcional en formación.
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white"/>
-  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white"/>
   <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-%233D4D5D.svg?style=plastic&logo=dbeaver&logoColor=white"/>
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%2300503E.svg?style=plastic&logo=google-cloud&logoColor=white"/>
 </p>
 
 ---
 
 ## 🌐 Conecta conmigo  
 <p align="center">
-  <a href="mailto:melanyascencio908@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/melany-ascencio"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=melanyascencio908@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/melany-ascencio"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
 </p>
